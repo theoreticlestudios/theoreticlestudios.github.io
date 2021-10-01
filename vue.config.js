@@ -8,5 +8,5 @@ module.exports = {
   transpileDependencies: [
     'quasar'
   ],
-  publicPath: process.env.NODE_ENV === 'production' ? '/src/' : '/'
+  publicPath: '/'
 }
