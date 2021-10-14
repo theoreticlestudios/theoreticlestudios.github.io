@@ -37,8 +37,23 @@
               <div class="article-1-overtint"></div>
               <img src="http://placekitten.com/600/600" class="card-image">
             </div>
-            <div class="row article-1" style="height: 25vw;">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-1 q-pa-lg" style="height: 25vw;">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
           </div>
           <div class="col-4" style="height: 50vw">
@@ -52,11 +67,41 @@
             </div>
           </div>
           <div class="col-4" style="height: 50vw">
-            <div class="row article-2" style="height: 25vw">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-2 q-pa-lg" style="height: 25vw">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
-            <div class="row article-3" style="height: 25vw;">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-3 q-pa-lg" style="height: 25vw;">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
           </div>
 
@@ -67,8 +112,23 @@
               <div class="article-1-overtint"></div>
               <img src="http://placekitten.com/600/600" class="card-image">
             </div>
-            <div class="row article-1" style="height: 25vw;">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-1 q-pa-lg" style="height: 25vw;">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
           </div>
           <div class="col-4" style="height: 50vw">
@@ -82,11 +142,41 @@
             </div>
           </div>
           <div class="col-4" style="height: 50vw">
-            <div class="row article-2" style="height: 25vw">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-2 q-pa-lg" style="height: 25vw">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
-            <div class="row article-3" style="height: 25vw;">
-              <p>text text text<br>text<br>text<br>text</p>
+            <div class="row article-3 q-pa-lg" style="height: 25vw;">
+              <text class="text-h4 gemunu-thicc" style="padding-bottom: 0; margin-bottom: 0">
+                Article Title goes here it might be kinda long
+              </text>
+              <q-icon color="grey-10" name="event" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Month DD, YYYY</text>
+              <q-icon color="grey-10" name="folder_open" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol" style="margin-right: 0.5vw">Article Series/Type</text>
+              <q-icon color="grey-10" name="comment" :size="'xs'" style="margin-right: 5px"></q-icon>
+              <text class="text-h7 gemunu-smol">6 Comments</text>
+              <text class="text-h6 gemunu-smol">
+                Start of the article and a few more words go here and more and more and more and more and more and more and more words...
+              </text>
+              <text class="text-h6 gemunu-smol">
+                Read More
+              </text>
+              <q-icon color="grey-10" name="navigate_next" :size="'md'" style="margin-right: 5px"></q-icon>
             </div>
           </div>
 
@@ -111,7 +201,7 @@ export default {
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300;500&display=swap');
 #navbar-col {
   background-image: linear-gradient(rgba(31, 40, 51, 0.5), rgba(102, 252, 241, 0.3)), url("../assets/90-deg-rotatedgigabyte.png");
   background-repeat: no-repeat, no-repeat;
@@ -126,6 +216,11 @@ export default {
 .gemunu-thicc {
   font-family: "Gemunu Libre";
   font-weight: 500;
+}
+
+.gemunu-smol {
+  font-family: "Gemunu Libre";
+  font-weight: 300;
 }
 
 .fade-enter-active,
